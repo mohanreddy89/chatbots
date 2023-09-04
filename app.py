@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = ''
 
 # Initialize the dictionary to store user responses
 user_responses = {}
